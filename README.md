@@ -17,7 +17,7 @@
     <h2 align="center">you can reach me by:</h2>
     <p align="center">
       <br/>
-      <a href="www.linkedin.com/in/vadim-ivanov-573316265/" target="blank"><img align="center"
+      <a href="https://linkedin.com/in/vadim-ivanov-573316265/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
       <a href="mailto:qa.vadim23@gmail.com" target="blank"><img align="center"
@@ -46,7 +46,7 @@
 <samp>
 <h2 align="center">About this Account</h2>
  <p align="center">
-  <a href="github.com/1999AZZAR" target="blank"><img align="center" 
+  <a href="github.com/VadimQA2021" target="blank"><img align="center" 
      src="https://komarev.com/ghpvc/?username=1999AZZAR&style=for-the-badge&label=PROFILE+VIEWS" height="25"
      alt="views count" /></a>
   <a href="https://1999azzar.github.io/1999AZZAR/"><img align="center" 
